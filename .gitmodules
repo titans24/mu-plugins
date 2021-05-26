@@ -1,3 +1,6 @@
 [submodule "version-st24"]
 	path = version-st24
 	url = https://github.com/titans24/version-st24.git
+[submodule "updraftplus"]
+	path = updraftplus
+	url = https://github.com/titans24/updraftplus.git
