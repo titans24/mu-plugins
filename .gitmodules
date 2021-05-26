@@ -4,3 +4,6 @@
 [submodule "updraftplus"]
 	path = updraftplus
 	url = https://github.com/titans24/updraftplus.git
+[submodule "aryo-activity-log"]
+	path = aryo-activity-log
+	url = https://github.com/titans24/aryo-activity-log.git
