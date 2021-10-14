@@ -12,7 +12,7 @@ require WPMU_PLUGIN_DIR . '/version-st24/version-st24.php';
 require WPMU_PLUGIN_DIR . '/aryo-activity-log/aryo-activity-log.php';
 require WPMU_PLUGIN_DIR . '/updraftplus/updraftplus.php';
 
-// Contact Fomr 7 - disable spam filter
+// Contact Form 7 - disable spam filter
 add_filter('wpcf7_spam', '__return_false'); 
 
 // plugin WP Offload Media - disable GZIP compression for SVG files
